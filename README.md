@@ -1,32 +1,16 @@
-# FoodOClock
-Food O’Clock merupakan sebuah aplikasi mobile yang dibuat oleh kelompok kami. Aplikasi ini dapat memudahkan konsumen untuk melakukan pemesanan makanan dengan lebih cepat tanpa harus mengantri. Aplikasi ini menawarkan berbagai macam pilihan makanan dari nusantara yang dapat dipesan hanya dengan ketukan jari. Food O’Clock ini juga disertai dengan fitur promo menarik yang tersedia, memesan makanan yang diinginkan, menambahkan ke keranjang belanja dan melakukan transaksi pesanan dengan cepat.
+# restaurant_menu_and_order_apps
 
-Food O’Clock dapat memberikan pengalaman pemesanan makanan di sebuah restoran dengan praktis serta efisien tanpa harus lama menunggu antrian yang panjang. Aplikasi ini memberikan solusi sempurna untuk konsumen yang ingin memesan makanan tanpa harus repot dan dapat dipesan kapanpun konsumen mau.
+A new Flutter project.
 
-<br />
-<br />
+## Getting Started
 
-## Anggota Pengembang (Food Brandal’s)
-Mahasiswa FTI Universitas Tarumanagara
-(NAMA   NIM     Github Account):
-- Marchelino Benediktus		535220107 (MarselTan23)
-- Levina Grace Evangeline 	535220109 (Vinagrce)
-- Jovanka C. T. M.	 	535220115 (jovanka633)
-- Matthew Alexander 		535220117 (monaknik)
-- Briliona			535220124 (Yona1201)
-- Sarah Barbara			535220132 (saraah97)
+This project is a starting point for a Flutter application.
 
-<br />
+A few resources to get you started if this is your first Flutter project:
 
-## Video Demo Aplikasi
-Tonton video berikut untuk melihat demo aplikasi FoodO'Clock dan bagaimana aplikasi ini dapat memudahkan pengguna dalam memesan makanan.<br>
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-### Deskripsi Video
-
-<br />
-<br />
-
-
-## Manual Book FoodOClock
-Manual book untuk penggunaan aplikasi FoodOClock secara lengkap dapat dilihat pada: 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
