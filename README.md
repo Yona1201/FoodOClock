@@ -1,1 +1,1 @@
-# FoodOClock
+# PromoPage and SettingsPage
