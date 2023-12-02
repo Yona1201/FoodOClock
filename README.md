@@ -17,8 +17,8 @@ Mahasiswa FTI Universitas Tarumanagara
 
 ## Video Demo Aplikasi
 Tonton video berikut untuk melihat demo aplikasi FoodO'Clock dan bagaimana aplikasi ini dapat memudahkan pengguna dalam memesan makanan.<br>
-### Deskripsi Video
-<br />
-<br />
-## Manual Book FoodOClock
+
+### Manual Book
 Manual book untuk penggunaan aplikasi FoodOClock secara lengkap dapat dilihat pada:
+<br />
+<br />
