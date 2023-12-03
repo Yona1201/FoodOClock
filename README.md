@@ -21,10 +21,13 @@ Tonton video berikut untuk melihat demo aplikasi FoodO'Clock dan bagaimana aplik
 
 ## Deskripsi Video
 Halo, selamat datang di FoodO'Clock! Aplikasi mobile ini menawarkan fitur-fitur canggih untuk mempermudah Anda menikmati hidangan berkualitas.
+
 <br>
+
 Apa yang membuat FoodO'Clock istimewa? Pertama-tama, kami memiliki beragam pilihan kuliner yang dapat Anda jelajahi dengan mudah. Mulai dari makanan hingga minuman, semuanya tersedia di aplikasi kami.
 Antarmuka pengguna kami juga dirancang dengan sederhana, sehingga Anda dapat dengan mudah menemukan hidangan yang diinginkan. Selain itu, proses pemesanan pun sangat praktis.
 <br>
+
 Jangan lewatkan promo menarik kami!. Tanpa repot, mulailah menikmati hidangan berkualitas dengan FoodO'Clock!
 Jangan lupa untuk mengunduh FoodO'Clock pada link berikut ini  https://github.com/Yona1201/FoodOClock , dan nikmati kemudahan serta kepraktisan dari aplikasi kami. Terima kasih!
 <br>
