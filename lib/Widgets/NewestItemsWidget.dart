@@ -94,7 +94,7 @@ class _ItemWidgetState extends State<ItemWidget> {
                     onRatingUpdate: (index) {},
                   ),
                   Text(
-                    "Rp ${widget.itemPrice.toString()}.000",
+                    "Rp ${widget.itemPrice.toString()}00",
                     style: TextStyle(
                       fontSize: 20,
                       color: Colors.red,

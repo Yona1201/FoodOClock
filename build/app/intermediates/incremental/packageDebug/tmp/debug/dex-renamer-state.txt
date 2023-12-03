@@ -1,4 +1,4 @@
-#Sat Dec 02 14:44:03 WIB 2023
-base.0=C\:\\Users\\ASUS\\Downloads\\test-main\\test-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sun Dec 03 13:31:43 WIB 2023
+base.0=D\:\\FoodOClock-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -4,7 +4,7 @@
             "outputFile": "com.example.restaurant_menu_and_order_apps.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ASUS\\Downloads\\test-main\\test-main\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\FoodOClock-main\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

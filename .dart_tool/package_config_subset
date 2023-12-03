@@ -154,10 +154,6 @@ xdg_directories
 2.19
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.3/
 file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.3/lib/
-restaurant_menu_and_order_apps
-3.2
-file:///C:/Users/ASUS/Downloads/test-main/test-main/
-file:///C:/Users/ASUS/Downloads/test-main/test-main/lib/
 sky_engine
 3.2
 file:///D:/Flutter/bin/cache/pkg/sky_engine/
@@ -174,4 +170,8 @@ flutter_web_plugins
 3.2
 file:///D:/Flutter/packages/flutter_web_plugins/
 file:///D:/Flutter/packages/flutter_web_plugins/lib/
+restaurant_menu_and_order_apps
+3.2
+file:///D:/FoodOClock-main/
+file:///D:/FoodOClock-main/lib/
 2
